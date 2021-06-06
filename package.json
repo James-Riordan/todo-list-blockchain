@@ -13,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/James-Riordan/todo-list-blockchain"
   },
-  "author": "James Riordan",
+  "author": "James-Riordan",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
